@@ -4,7 +4,7 @@
 
 DOI: [10.25815/eb9f-ad48](https://doi.org/10.25815/eb9f-ad48)
 
-Open Climate Knowledge (OCK) is an open research project for data mining Open Access (OA) papers related to Climate Change &mdash; to build stats on OA rates, and for researcher to use in their work. OCK is intended for researchers inside and outside of academe.
+Open Climate Knowledge (OCK) is an open research project for data mining Open Access (OA) papers related to Climate Change &mdash; to build stats on OA rates, and for researchers to use in their work. OCK is intended for researchers inside and outside of academe.
 
 >Get involved! Run the software yourself or contribute to the research project. You can see open tasks and areas of expertise that need covering [here](https://github.com/petermr/climate/issues). If you have questions or comments then raise an issue on [GitHub](https://github.com/petermr/climate/issues) or message on Twitter with the hashtag [#OCK](https://twitter.com/search?q=%23OCK&src=typed_query&f=live).
 
